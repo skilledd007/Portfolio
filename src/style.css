@@ -62,7 +62,7 @@ button:focus {
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(222, 130, 235, 0.911);
+  background: rgba(130, 195, 235, 0.911);
   border-radius: 12px;
 }
 
@@ -70,7 +70,7 @@ button:focus {
 /* Navbar Section  */
 /* --------- */
 .sticky {
-  background-color: #1b1a2ea9 !important;
+  background-color: #0C2D48 !important;
   transition: all 0.3s ease-out 0s !important;
   box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
   backdrop-filter: blur(15px) !important;
@@ -190,7 +190,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #c95bf5;
+  background: #B1D4E0;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -383,7 +383,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #68187a;
+  background: #B1D4E0;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -391,13 +391,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #801f95;
+  box-shadow: 0 0 15px #B1D4E0;
 }
 
 .home-social-icons:hover {
-  color: #87209e;
-  box-shadow: 0 0 5px #87209e;
-  text-shadow: 0 0 2px #87209e;
+  color: #B1D4E0;
+  box-shadow: 0 0 5px #B1D4E0;
+  text-shadow: 0 0 2px #B1D4E0;
 }
 
 .social-icons {
@@ -414,7 +414,7 @@ button:focus {
 /* Footer */
 /* --------- */
 .footer {
-  background-color: rgb(10, 4, 22);
+  background-color: rgb(46, 45, 48);
   bottom: 0 !important;
   padding-top: 10px !important;
   padding-bottom: 8px !important;
@@ -453,7 +453,7 @@ button:focus {
 }
 
 .blockquote-footer {
-  color: #a588c0 !important;
+  color: #181c32 !important;
 }
 
 /* --------- */
@@ -534,14 +534,14 @@ button:focus {
 
 .btn-primary {
   color: #fff !important;
-  background-color: #623686 !important;
-  border-color: #623686 !important;
+  background-color: #B1D4E0 !important;
+  border-color: #0C2D48 !important;
 }
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #6d20c5d7 !important;
-  border-color: #6d20c5d7 !important;
+  background-color: #B1D4E0 !important;
+  border-color: #0C2D48 !important;
 }
 
 .btn:focus {
@@ -713,8 +713,8 @@ button:focus {
 }
 
 .like-btn {
-  background-color: #934cce5e !important;
-  border-color: #934cce5e !important;
+  background-color: #2E8BC0 !important;
+  border-color: #2E8BC0 !important;
   padding: 0.25rem 0.98rem !important;
   border-radius: 5px !important;
   line-height: 1.4 !important;
@@ -723,8 +723,8 @@ button:focus {
 
 .like-btn:hover {
   transform: translateY(-2px) !important;
-  background-color: #a24dd386 !important;
-  border-color: #a24dd386 !important;
+  background-color: #B1D4E0 !important;
+  border-color: #0C2D48 !important;
 }
 
 .animate-like {
@@ -758,8 +758,8 @@ button:focus {
 
 .fork-btn-inner:hover {
   transform: translateY(-2px) !important;
-  background-color: #a24dd386 !important;
-  border-color: #a24dd386 !important;
+  background-color: #B1D4E0 !important;
+  border-color: #0C2D48 !important;
 }
 
 .fork-btn-inner::after {
