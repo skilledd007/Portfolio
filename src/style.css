@@ -414,6 +414,7 @@ button:focus {
 /* Footer */
 /* --------- */
 .footer {
+  position: fixed;
   background-color: rgb(46, 45, 48);
   bottom: 0 !important;
   padding-top: 10px !important;
@@ -475,7 +476,7 @@ button:focus {
 }
 
 .project-card-view {
-  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  box-shadow: 0 4px 5px 3px rgba(68, 159, 205, 0.374) !important;
   color: white !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
@@ -486,7 +487,7 @@ button:focus {
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
+  box-shadow: 0 4px 4px 5px rgba(36, 36, 177, 0.561) !important;
 }
 
 .blog-card {
